@@ -6,7 +6,9 @@ Need do:
 2) Output the matrix multiplication result 
 
 Explanation of each line in sample.txt:
+
 2 <- number of matrixes
+
 2 2 <- row/column of first matrix
 1 2 <- item values
 3 4 <- item values
